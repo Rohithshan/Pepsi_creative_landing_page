@@ -1,5 +1,5 @@
 function imgSlider(anything) {
-    document.querySelecter('.pepsi').src = anything;
+    document.querySelector('.pepsi').src = anything;
 }
 
 function changeBgColor(color) {
